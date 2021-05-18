@@ -248,3 +248,6 @@ input[type="range"] {
 #app:not(.home) h1 {
   display: none;
 }
+#app-footer{
+  display: none;
+}
